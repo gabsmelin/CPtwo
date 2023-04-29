@@ -1,0 +1,37 @@
+•Gabriel Melo – RM: 550202
+•Gustavo Ferreira – RM: 550181
+•Igor Ferreira - RM: 95003
+•Lucas Spinelli – RM: 97757
+•Yuri Chichedom Ikegwuonu - RM: 552262
+
+-----------------------------------------
+
+Link do GitHub: https://github.com/gabsmelin/CPtwo
+
+-----------------------------------------
+
+Link do GitPages: https://gabsmelin.github.io/CPtwo/
+
+-----------------------------------------
+
+Página principal que nos leva a todas as outras. Nela temos cards informativos, falando sobre as outras três páginas (tecnologia, mobile e games), ela ainda tem um menu com links para as três páginas citadas e um rodapé que nos leva para o GitHub, Twitter e Facebook.
+(Página principal:index.html(HOME)a) Estrutura básicapadrão.b) Cabeçalho: contendo logo com imagem e menu.c) Menu: Deve conter links para as páginas [principal, games, mobile, tecnologia].d) Seção conteúdo: Em uma section deve conter 3 cards que podem ser construídos com elementos articles/div  ou  outros  e  dentro  destes  é  obrigatório  terem  respectivamente  os  seguintes  elementos: h2,figure>img+figcaption. Estes cards são referentes a cada um dos assuntos abordados,[GAMES,MOBILE e TECNOLOGIA].Então as imagens que vão ser adicionada devem ser relacionadas ao assuntos abordados.a) Rodapé: Adicione os seguintes elementos respectivamente, h2,nav>a*3>imgb) As imagens que vão ser adicionadas devem ser de redes sociais[github, facebook e twitter].)
+
+Observação: Não deu para colocar a imagem do código.
+........
+Página de tecnológia é voltada para explicar ao cliente o que é tecnologia, contendo um card e um texto sobre o assunto.
+(Páginas internas: games.html, mobile.html e tecnologia.htmla) Estrutura básicapadrão.b) Cabeçalho: contendo logo com imagem e menu.c) Menu: Deve conter links para as páginas [principal, games, mobile, tecnologia].d) Seção  conteúdo:  Em  uma  section  respectivamente  devemos  criar  os  seguintes  elementos: h2,p,figure>img+figcaption. Estas seções são referentes a cada um dos assuntos abordados,[GAMES,MOBILE e TECNOLOGIA]. Então devem ter um texto introdutório sobre cada um.a) Rodapé: Adicione os seguintes elementos respectivamente, h2,nav>a*3>imgb) As imagens que vão ser adicionadas devem ser de redes sociais[github, facebook e twitter].)
+
+Observação: Não deu para colocar a imagem do código.
+........
+Página de mobile é voltada para mostrar ao cliente assuntos relacionados ao mobile, contendo um card e um texto sobre o assunto.
+(Páginas internas: games.html, mobile.html e tecnologia.htmla) Estrutura básicapadrão.b) Cabeçalho: contendo logo com imagem e menu.c) Menu: Deve conter links para as páginas [principal, games, mobile, tecnologia].d) Seção  conteúdo:  Em  uma  section  respectivamente  devemos  criar  os  seguintes  elementos: h2,p,figure>img+figcaption. Estas seções são referentes a cada um dos assuntos abordados,[GAMES,MOBILE e TECNOLOGIA]. Então devem ter um texto introdutório sobre cada um.a) Rodapé: Adicione os seguintes elementos respectivamente, h2,nav>a*3>imgb) As imagens que vão ser adicionadas devem ser de redes sociais[github, facebook e twitter].)
+
+Observação: Não deu para colocar a imagem do código.
+........
+Página de mobile é voltada para mostrar ao cliente assuntos relacionados ao games, contendo um card e um texto sobre o assunto.
+(Páginas internas: games.html, mobile.html e tecnologia.htmla) Estrutura básicapadrão.b) Cabeçalho: contendo logo com imagem e menu.c) Menu: Deve conter links para as páginas [principal, games, mobile, tecnologia].d) Seção  conteúdo:  Em  uma  section  respectivamente  devemos  criar  os  seguintes  elementos: h2,p,figure>img+figcaption. Estas seções são referentes a cada um dos assuntos abordados,[GAMES,MOBILE e TECNOLOGIA]. Então devem ter um texto introdutório sobre cada um.a) Rodapé: Adicione os seguintes elementos respectivamente, h2,nav>a*3>imgb) As imagens que vão ser adicionadas devem ser de redes sociais[github, facebook e twitter].)
+
+Observação: Não deu para colocar a imagem do código.
+
+
